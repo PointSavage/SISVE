@@ -1,0 +1,11 @@
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\bin\Debug\capa_datos.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\bin\Debug\capa_entidad.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\bin\Debug\capa_datos.pdb
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\bin\Debug\capa_entidad.pdb
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\obj\Debug\capa_negocio.csproj.AssemblyReference.cache
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\obj\Debug\capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\obj\Debug\capa_negocio.csproj.CopyComplete
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_negocio\obj\Debug\capa_negocio.pdb

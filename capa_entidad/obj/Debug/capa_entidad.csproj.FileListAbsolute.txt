@@ -1,0 +1,6 @@
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_entidad\obj\Debug\capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_entidad\obj\Debug\capa_entidad.pdb

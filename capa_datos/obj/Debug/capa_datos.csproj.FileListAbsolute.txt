@@ -1,0 +1,9 @@
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\bin\Debug\capa_datos.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\bin\Debug\capa_datos.pdb
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\bin\Debug\capa_entidad.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\bin\Debug\capa_entidad.pdb
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\obj\Debug\capa_datos.csproj.AssemblyReference.cache
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\obj\Debug\capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\obj\Debug\capa_datos.csproj.CopyComplete
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\obj\Debug\capa_datos.dll
+C:\Users\Diana Muñoz\Documents\Programación\SISVE\capa_datos\obj\Debug\capa_datos.pdb
